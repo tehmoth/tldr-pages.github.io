@@ -61,10 +61,6 @@ Check more detailed [Contributing Guidelines]({{site.github}}/blob/master/CONTRI
 
 [MIT License]({{site.github}}/blob/master/LICENSE.md)
 
-## Credits
-
-This site is built on top of [Jekyll](https://jekyllrb.com/) and using [Solo theme](https://github.com/chibicode/solo).
-
 {% include github_ribbon.html %}
 
 {% include github_stars.html %}
