@@ -4,27 +4,26 @@ layout: default
 
 > Simplified and community-driven man pages
 
+
+## Usage
+
+Run in [live demo](https://ostera.github.io/tldr.js){:target="_blank"} or your terminal.
+
+~~~shell
+tldr tar
+~~~
+
+![tldr tar command output](images/screenshot.png?s=200)
+
 ## Installation
 
 Install the NodeJS client
 
-```
+~~~shell
 npm install -g tldr
-```
+~~~
 
-
-## Usage
-
-Simply run in your terminal
-
-```
-tldr tar
-```
-
-![tldr tar command output](images/screenshot.png?s=200)
-
-
-## Clients
+You can also try other TLDR clients
 
 Client                                                                | Installation instruction
 ----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------
