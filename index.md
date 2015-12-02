@@ -50,7 +50,7 @@ Best practices:
 - Focus on the 5-6 most common usages.
 - When in doubt, keep new command-line users in mind.
 - Introduce examples gradually, from the simplest to more complex.
-- Don't explaining general UNIX concepts.
+- Don't explain general UNIX concepts.
 - Have a look at a few existing pages.
 
 Check more detailed [Contributing Guidelines]({{site.github}}/blob/master/CONTRIBUTING.md).
