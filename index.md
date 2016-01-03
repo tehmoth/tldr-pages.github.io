@@ -4,22 +4,20 @@ layout: default
 
 > Simplified and community-driven man pages
 
+The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
 
-## Usage
+Try the [live demo](https://ostera.github.io/tldr.jsx){:target="blank"} below or follow [installing instructions](#cli-installation) 
 
-Run in [live demo](https://ostera.github.io/tldr.jsx){:target="_blank"} or your terminal.
+<iframe src="https://ostera.github.io/tldr.jsx"
+        width="100%"
+        height="300px"
+  ></iframe>
 
-~~~shell
-tldr tar
-~~~
-
-![tldr tar command output](images/screenshot.png?s=200)
-
-## Installation
+## CLI Installation
 
 Install the NodeJS client
 
-~~~shell
+~~~
 npm install -g tldr
 ~~~
 
@@ -35,7 +33,6 @@ Client                                                                | Installa
 [Android client](https://github.com/gianasista/tldr-viewer)           | available on [Google Play](https://play.google.com/store/apps/details?id=de.gianasista.tldr_viewer)
 
 There are more clients listed in [README.md]({{ site.github }}/blob/master/README.md#clients).
-
 
 ## Contribute
 
