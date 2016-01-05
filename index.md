@@ -4,6 +4,7 @@ layout: default
 
 <p class="widgets">
   {% include github_stars.html %}
+  {% include twitter.html %}
   {% include gitter_im.html %}
 </p>
 
