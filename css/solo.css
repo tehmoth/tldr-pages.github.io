@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:700);
+@import url(//fonts.googleapis.com/css?family=Source+Code+Pro:400);
 @import url(//fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 html {
@@ -47,11 +48,11 @@ h1 {
 @media (min-width: 30rem) {
   h1 {
     font-size: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
   }
 }
 
-h1 a {
+h1 a, h2 a {
   color: inherit;
 }
 
@@ -129,7 +130,7 @@ td, th {
 }
 
 pre, code {
-  font-family: inherit;
+  font-family: Source Code Pro, courier new, courier, monospace;
   background-color: #eee;
 }
 
@@ -151,3 +152,14 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+.widgets {
+  margin-bottom: 3rem;
+}
+
+.widgets img {
+  height: 30px;
+  margin: 0;
+  display: inline;
+}
+
