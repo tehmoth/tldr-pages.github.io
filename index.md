@@ -34,7 +34,7 @@ Client                                                                | Installa
 [Node.js client](https://github.com/tldr-pages/tldr-node-client)      | ```npm install -g tldr```
 [Ruby client](https://github.com/YellowApple/tldrb)                   | ```gem install tldrb```
 [Python client](https://github.com/lord63/tldr.py)                    | ```pip install tldr.py```
-[C++ client](https://github.com/tldr-pages/tldr-cpp-client)           | ```brew tap tldr-pages/tldr``` <br> ```brew install tldr```
+[C++ client](https://github.com/tldr-pages/tldr-cpp-client)           | ```brew install tldr-pages/tldr/tldr```
 [Android client](https://github.com/gianasista/tldr-viewer)           | available on [Google Play](https://play.google.com/store/apps/details?id=de.gianasista.tldr_viewer)
 
 There are more clients listed in [README.md]({{ site.github }}/blob/master/README.md#clients).
