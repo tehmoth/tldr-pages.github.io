@@ -30,14 +30,16 @@ You can also try any of the many other TLDR clients that have sprouted from the 
 
 Client                                                                | Installation instruction
 ----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------
-[Web client](https://github.com/ostera/tldr.jsx)                       | [the live demo](https://ostera.github.io/tldr.jsx)!
+[Web client](https://github.com/ostera/tldr.jsx)                       | [the live demo](https://ostera.github.io/tldr.jsx)
 [Node.js client](https://github.com/tldr-pages/tldr-node-client)      | ```npm install -g tldr```
 [Ruby client](https://github.com/YellowApple/tldrb)                   | ```gem install tldrb```
 [Python client](https://github.com/lord63/tldr.py)                    | ```pip install tldr.py```
-[C++ client](https://github.com/tldr-pages/tldr-cpp-client)           | ```brew install tldr-pages/tldr/tldr```
+[C++ client](https://github.com/tldr-pages/tldr-cpp-client)           | ```brew tap tldr-pages/tldr``` <br> ```brew install tldr```
 [Android client](https://github.com/gianasista/tldr-viewer)           | available on [Google Play](https://play.google.com/store/apps/details?id=de.gianasista.tldr_viewer)
+[iOS client](https://github.com/freesuraj/TLDR) | [TLDR Man Page in App Store](https://appsto.re/sg/IQ0-_.i)
+[Dash for OSX](https://github.com/Moddus/tldr-python-dash-docset) | open Preferences / Downloads / User Contributed <br> find `tldr pages` in the list
 
-There are more clients listed in [README.md]({{ site.github }}/blob/master/README.md#clients).
+There are more clients listed in [TL;DR clients wiki page]({{ site.github }}/wiki/TLDR-clients).
 
 ## Contribute
 
