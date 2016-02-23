@@ -49,14 +49,6 @@ This repository is just that: an ever-growing collection of examples for the mos
 
 You're encouraged to edit some page from the `pages/` folder and submit a pull request. Just keep in mind the few things below.
 
-#### Best Practices:
-
-- Have a look at a few existing pages.
-- Focus on the 5-6 most common usages.
-- When in doubt, keep new command-line users in mind.
-- Introduce examples gradually, from simple to complex.
-- Don't explain general UNIX concepts.
-
 Check more detailed [Contributing Guidelines]({{site.github}}/blob/master/CONTRIBUTING.md).
 
 
