@@ -8,9 +8,9 @@ layout: default
   {% include gitter_im.html %}
 </p>
 
-The TLDR pages are a community effort to simplify the beloved man pages with practical examples. 
+The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
 
-Try the [live demo](https://ostera.github.io/tldr.jsx){:target="blank"} below or follow [installing instructions](#cli-installation) 
+Try the [live demo](https://ostera.github.io/tldr.jsx){:target="blank"} below, have a look at the [pdf version](/assets/tldr-book.pdf) or follow the [installing instructions](#cli-installation).
 
 <iframe src="https://ostera.github.io/tldr.jsx"
         width="100%"
@@ -57,4 +57,3 @@ Check more detailed [Contributing Guidelines]({{site.github}}/blob/master/CONTRI
 [MIT License]({{site.github}}/blob/master/LICENSE.md)
 
 {% include github_ribbon.html %}
-
