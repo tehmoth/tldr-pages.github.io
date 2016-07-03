@@ -8,7 +8,7 @@ layout: default
   {% include gitter_im.html %}
 </p>
 
-The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
+The TLDR pages are a community effort to simplify the beloved [man pages](https://en.wikipedia.org/wiki/Man_page) with practical examples.
 
 Try the [live demo](http://tldr.ostera.io){:target="blank"} below, have a look at the [pdf version](/assets/tldr-book.pdf), or follow the [installing instructions](#cli-installation).
 
