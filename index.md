@@ -14,7 +14,7 @@ Try the [live demo](http://tldr.ostera.io){:target="blank"} below, have a look a
 
 <iframe src="http://tldr.ostera.io/tar"
         width="100%"
-        height="300px"
+        height="500px"
         style="border: 1px solid"
   ></iframe>
 
