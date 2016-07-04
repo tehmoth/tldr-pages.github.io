@@ -12,7 +12,7 @@ The TLDR pages are a community effort to simplify the beloved [man pages](https:
 
 Try the [live demo](http://tldr.ostera.io){:target="blank"} below, have a look at the [pdf version](/assets/tldr-book.pdf), or follow the [installing instructions](#cli-installation).
 
-<iframe src="https://tldr.ostera.io/tar"
+<iframe src="http://tldr.ostera.io/tar"
         width="100%"
         height="500px"
         style="border: 1px solid"
